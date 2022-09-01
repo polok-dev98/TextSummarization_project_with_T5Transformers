@@ -7,4 +7,3 @@ A Text (News) summerization system using T5 Transformers (Hugging Face) and Pyto
 
 3. Used T5 Transformers for training purposes and make prediction using the trained model to the given text input.
 
-# Enjoy !!!!!!!!!!!!!
